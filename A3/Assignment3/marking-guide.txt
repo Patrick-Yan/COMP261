@@ -1,0 +1,31 @@
+[q]Stage 1: 55[/q]
+[q]Stage 2: 15[/q]
+[q]Stage 3: 15[/q]
+[q]Stage 4: 15[/q]
+
+Stage 1 out of 55: 
+ * ✅[5] Reads the light source direction and all polygons from file.done
+ * ✅[10] Marks all the polygons that are facing away from the viewer.done
+ * ✅[10] Computes normal and reflected light intesity of every non-hidden polygon.done
+ * ✅[10] Finds the edge lists of polygons.done
+ * ✅[10] Renders the image to an array of colours using a Z-buffer.done
+ * ✅[5] Displays the array of colours.done
+ * ✅[5] A report that describes what the code does/doesn't do, any bugs, and how it was tested.
+
+Stage 2 out of 15 (up to 70):
+ * ✅[10] The renderer works correctly; No glitches or holes, the ambient light level is correctly used, and the light source is correctly used. 
+ * ✅[4] Code is clean and readable.done
+ * ✅[1] Report is informative and clear.
+
+Stage 3 out of 15 (up to 85):
+ * ✅[15] The user can navigate the render, i.e.\ change the viewing direction.
+ 	- Polygons are rotated based on the viewing direction.
+ 	- Polygons are translated and scaled to fit in the window.
+
+Stage 4 out of 15 (up to 100, with 5 spare marks):
+ * [10] Allows multiple light sources to be added (and possibly modified) dynamically.
+ * [10] Gouraud shading is used to make smooth, curved surfaces. Alternatively, Phong shading is used for an over-the-top answer.
+
+Final mark calculation:
+
+[q]Stage 1: 55[/q] + [q]Stage 2: 15[/q] + [q]Stage 3: 15[/q] + [q]Stage 4: 15[/q]
