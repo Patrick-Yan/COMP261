@@ -1,0 +1,20 @@
+Do :
+ 1. Stage 0 and Stage 1
+ 2. A little bit on Stage 2 : wait with parameter
+                              move with brackets but can’t do move with parameter T T
+
+
+
+test I used:
+move;
+turnL;
+move;
+move;
+turnR;
+move;
+move;
+turnL;
+move;
+move;
+turnR;
+move;
